@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>CrusaderSmall.png</file>
+        <file>JackSmall.png</file>
+        <file>AimSmall.png</file>
+        <file>FrenchSmall.png</file>
+        <file>RanniSmall.png</file>
+        <file>SpeedSmall.png</file>
+        <file>UpsideSmall.png</file>
+        <file>pngtree-a-capwearing-frenchman-holding-a-fresh-baguette-comical-photo-png-image_13686654.png</file>
+        <file>1611219.jpg</file>
+        <file>Dialouge_Sound.wav</file>
+    </qresource>
+</RCC>
